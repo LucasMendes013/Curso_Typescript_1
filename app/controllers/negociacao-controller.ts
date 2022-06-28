@@ -1,6 +1,6 @@
 import { Negociacao } from './../models/negociacao';
 export class NegociacaoController {
-  private inputData;
+  private inputData: ;
   private inputQuantidade
   private inputValor
 
